@@ -1,0 +1,42 @@
+---
+title: "Isa Vialard"
+format:
+  html:
+    code-fold: true
+toc: true
+number-sections: false
+---
+
+I am a postdoctoral researcher at MPI-SWS where I am part of the Foundations of Algorithmic Verification group led by [Joël Ouaknine](https://people.mpi-sws.org/~joel/).
+Before that, I did my PhD at Laboratoire Méthodes Formelles, ENS Paris Saclay, under the supervision of [Philippe Schnoebelen](http://www.lsv.fr/~phs/).
+
+### Contact
+You can contact me at *surname*[at]mpi-sws[dot]org
+
+## Research interests
+My main interest is well quasi-orders, their ordinal measures and their application to the verification of well-structured transition systems.
+I am also interested in proof assistants and combinatorics on words.
+
+## Publications
+
+
+- I. Vialard, [On the Width of the Cartesian Product of Ordinals](https://rdcu.be/dDXHB), Order (2024).
+
+- M. Praveen, Ph. Schnoebelen, I. Vialard, J. Veron, [On the piecewise complexity of words and periodic words](https://dl.acm.org/doi/abs/10.1007/978-3-031-52113-3_32), SOFSEM 2024
+
+
+- I. Vialard, [Ordinal Measures of the Set of Finite Multisets](https://drops.dagstuhl.de/opus/volltexte/2023/18621/pdf/LIPIcs-MFCS-2023-87.pdf), MFCS 2023.
+
+- S. Abriola, S. Halfon, A. Lopez, S. Schmitz, Ph. Schnoebelen, I. Vialard, [Measuring well quasi-ordered finitary powersets](https://arxiv.org/abs/2312.14587), submitted to Mathematical Structures of Computer Science.
+
+- Ph. Schnoebelen and I. Vialard, On the piecewise complexity of words, accepted by Acta Informatica (2024).
+    
+### In preparation
+
+- Ph. Schnoebelen, M. Veron, I. Vialard, Tropical algebra for compositional subword complexity.
+
+- M. Džamonja, I. Vialard, On maximal order type of the lexicographic product.
+
+## Teaching
+
+I used to teach [Formal languages](https://lmf.cnrs.fr/IsaVialard/LangagesFormels), Rewriting theory, [Architecture and sytems](https://lmf.cnrs.fr/IsaVialard/ArchSys), and [Logic Project](https://lmf.cnrs.fr/IsaVialard/ProjetLogique2024)(an introduction to proof assistants) at ENS Paris-Saclay.
