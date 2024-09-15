@@ -3,12 +3,12 @@ title: "Isa Vialard"
 format:
   html:
     code-fold: true
-toc: true
+toc: false
 number-sections: false
 ---
 
 
-<img src="./images/photo.jpg" width="140" height="200" align="right" />
+<img src="./images/photo.jpg" align="right" />
 
 I am a postdoctoral researcher at MPI-SWS, where I am part of the Foundations of Algorithmic Verification group led by [Joël Ouaknine](https://people.mpi-sws.org/~joel/).
 Before that, I did my PhD at Laboratoire Méthodes Formelles, ENS Paris Saclay, under the supervision of [Philippe Schnoebelen](http://www.lsv.fr/~phs/).
