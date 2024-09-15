@@ -1,0 +1,15 @@
+---
+title: "Presentations"
+format:
+  html:
+    code-fold: true
+toc: true
+number-sections: false
+---
+
+* [PhD defense](slides/phddefense.pdf), *Measuring well quasi-orders and complexity of
+verification*, ENS Paris-Saclay, July 2024.
+
+* [*Ordinal measures of the set of finite multisets*](slides/mfcs2023.pdf), MFCS, Bordeaux, September 2023.
+
+* [*Elementary, Dr. Powerset!*](slides/ElementaryDrPowerset.pdf), workshop *"WQO-BQO - what is up?"*, Lyon, March 2023.

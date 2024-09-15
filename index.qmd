@@ -7,7 +7,10 @@ toc: true
 number-sections: false
 ---
 
-I am a postdoctoral researcher at MPI-SWS where I am part of the Foundations of Algorithmic Verification group led by [Joël Ouaknine](https://people.mpi-sws.org/~joel/).
+
+<img src="./images/photo.jpg" width="140" height="200" align="right" />
+
+I am a postdoctoral researcher at MPI-SWS, where I am part of the Foundations of Algorithmic Verification group led by [Joël Ouaknine](https://people.mpi-sws.org/~joel/).
 Before that, I did my PhD at Laboratoire Méthodes Formelles, ENS Paris Saclay, under the supervision of [Philippe Schnoebelen](http://www.lsv.fr/~phs/).
 
 ### Contact
@@ -37,6 +40,10 @@ I am also interested in proof assistants and combinatorics on words.
 
 - M. Džamonja, I. Vialard, On maximal order type of the lexicographic product.
 
+### Presentations
+
+The slides from some of my presentations can be found [*here*](https://isavialard.github.io/vialard.github.io/slides.html).
+
 ## Teaching
 
-I used to teach [Formal languages](https://lmf.cnrs.fr/IsaVialard/LangagesFormels), Rewriting theory, [Architecture and sytems](https://lmf.cnrs.fr/IsaVialard/ArchSys), and [Logic Project](https://lmf.cnrs.fr/IsaVialard/ProjetLogique2024)(an introduction to proof assistants) at ENS Paris-Saclay.
+I used to teach [Formal languages](https://lmf.cnrs.fr/IsaVialard/LangagesFormels), Rewriting theory, [Architecture and sytems](https://lmf.cnrs.fr/IsaVialard/ArchSys), and [Logic Project](https://lmf.cnrs.fr/IsaVialard/ProjetLogique2024) (an introduction to proof assistants) at ENS Paris-Saclay.
