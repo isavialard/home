@@ -13,6 +13,7 @@ number-sections: false
 <img src="./images/photo.jpg" height="250" align="right" />
 
 I am a postdoctoral researcher at MPI-SWS, where I am part of the *Foundations of Algorithmic Verification* group led by [Joël Ouaknine](https://people.mpi-sws.org/~joel/).
+I am currently working on weighted timed games.
 Before that, I did my PhD at Laboratoire Méthodes Formelles, ENS Paris Saclay, under the supervision of [Philippe Schnoebelen](http://www.lsv.fr/~phs/).
 
 #### My PhD Thesis: [*Measuring well quasi-orders and complexity of verification*.](./mwqo.pdf)
@@ -37,14 +38,14 @@ I am also interested in proof assistants and combinatorics on words.
 
 - S. Abriola, S. Halfon, A. Lopez, S. Schmitz, Ph. Schnoebelen, I. Vialard, [*Measuring well quasi-ordered finitary powersets*](https://arxiv.org/abs/2312.14587), submitted to Mathematical Structures of Computer Science.
 
-- Ph. Schnoebelen and I. Vialard, *On the piecewise complexity of words*, accepted by Acta Informatica (2024).
+- Ph. Schnoebelen and I. Vialard, [*On the piecewise complexity of words*](), accepted by Acta Informatica (2024).
+
+- M. Džamonja, I. Vialard, [*On maximal order type of the lexicographic product*](https://arxiv.org/abs/2409.09699), submitted to MSCS.
 
     
 ### In preparation
 
 - Ph. Schnoebelen, M. Veron, I. Vialard, *Tropical algebra for compositional subword complexity*.
-
-- M. Džamonja, I. Vialard, *On maximal order type of the lexicographic product*.
 
 ### Presentations
 
