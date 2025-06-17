@@ -29,41 +29,60 @@ I am also interested in proof assistants and combinatorics on words.
 
 ## Publications
 
-- I. Vialard, [*On the Width of the Cartesian Product of Ordinals*](https://rdcu.be/dDXHB), Order (2024).
+### Journal articles
 
-- M. Praveen, Ph. Schnoebelen, I. Vialard, J. Veron, [*On the piecewise complexity of words and periodic words*](https://dl.acm.org/doi/abs/10.1007/978-3-031-52113-3_32), SOFSEM 2024
+- I. Vialard, [*On the Width of the Cartesian Product of Ordinals*](https://link.springer.com/article/10.1007/s11083-024-09668-8), Order, vol 42, pp. 37-58 (2024).
+
+- Ph. Schnoebelen and I. Vialard, [*On the piecewise complexity of words*](https://doi.org/10.1007/s00236-025-00480-4), Acta Informatica, vol 62 (2025).
+
+- M. Džamonja, I. Vialard, [*On maximal order type of the lexicographic product*](https://arxiv.org/abs/2409.09699), accepted for publication in Logic journal of the IGPL.
+
+### Conference proceedings
+
+- M. Praveen, Ph. Schnoebelen, I. Vialard, J. Veron, [*On the piecewise complexity of words and periodic words*](https://link.springer.com/chapter/10.1007/978-3-031-52113-3_32), SOFSEM, LNCS, pp 456-470 (2024)
 
 
-- I. Vialard, [*Ordinal Measures of the Set of Finite Multisets*](https://drops.dagstuhl.de/opus/volltexte/2023/18621/pdf/LIPIcs-MFCS-2023-87.pdf), MFCS 2023.
-
-- S. Abriola, S. Halfon, A. Lopez, S. Schmitz, Ph. Schnoebelen, I. Vialard, [*Measuring well quasi-ordered finitary powersets*](https://arxiv.org/abs/2312.14587), submitted to Mathematical Structures of Computer Science.
-
-- Ph. Schnoebelen and I. Vialard, [*On the piecewise complexity of words*](https://doi.org/10.1007/s00236-025-00480-4), Acta Informatica (2025).
-
-- M. Džamonja, I. Vialard, [*On maximal order type of the lexicographic product*](https://arxiv.org/abs/2409.09699), accepted by IGPL.
+- I. Vialard, [*Ordinal Measures of the Set of Finite Multisets*](https://doi.org/10.4230/LIPIcs.MFCS.2023.87), MFCS 2023.
 
 - Ph. Schnoebelen, M. Veron, I. Vialard, *Tropical algebra for compositional subword complexity*, ICALP 2025.
 
     
 ### In preparation
 
+- S. Abriola, S. Halfon, A. Lopez, S. Schmitz, Ph. Schnoebelen, I. Vialard, [*Measuring well quasi-ordered finitary powersets*](https://arxiv.org/abs/2312.14587), submitted for publication.
+
 - Q. Guilmant, J. Ouaknine, I. Vialard, *Undecidability of the Value Problem for 2-clocks Weighted Timed Games*.
 
-- I. Vialard, *Two-clock almost strongly non-Zeno weighted timed games*.
+- I. Vialard, *Two-clock almost divergent weighted timed games*.
 
 
 
-### Presentations
+### Presentations in conferences, workshops, seminars
 
-Here are the slides from some of my presentations (sadly they are not self-sufficient).
+* [*Tropical algebra for piecewise complexity*](slides/hslp.pdf), workshop *"Words and Subwords"*, Liège, April 2025.
+
+* Journées annuelles du GT Verif, Lille, Novembre 2024.
+* Séminaire LX du LaBRI, Bordeaux, Novembre 2024.
+* Séminaire automate de l'IRIF, Paris, Octobre 2024.
+
 
 * My PhD defense, [*Measuring well quasi-orders and complexity of
 verification*](slides/phddefense.pdf), ENS Paris-Saclay, July 2024.
 
+* Journées annuelles du GT Verif, Paris, Novembre 2023.
+
 * [*Ordinal measures of the set of finite multisets*](slides/mfcs2023.pdf), MFCS, Bordeaux, September 2023.
+
+* Séminaire à Liverpool University, July 2023.
 
 * [*Elementary, Dr. Powerset!*](slides/ElementaryDrPowerset.pdf), workshop *"WQO-BQO - what is up?"*, Lyon, March 2023.
   *(This is the sequel to a talk given by Aliaume Lopez at the same workshop.*)
+
+* Research school *"Discrete mathematics and logic"*, Marseille, January 2023.
+
+* Highlights, Paris, June 2022.
+
+
 
 ## Teaching and supervision
 
