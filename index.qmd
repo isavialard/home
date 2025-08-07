@@ -53,7 +53,9 @@ I am also interested in proof assistants and combinatorics on words.
 
 - Q. Guilmant, J. Ouaknine, I. Vialard, [*The Value Problem for Weighted Timed Games with Two Clocks is Undecidable*](https://arxiv.org/abs/2507.10550), submitted for publication.
 
-- I. Vialard, *Two-clock almost divergent weighted timed games*, submitted for publication.
+- I. Vialard, [*Deciding the Value of Two-Clock Almost Non-Zeno Weighted Timed Games*](https://arxiv.org/abs/2508.00014), submitted for publication.
+
+- R. Aghamov, C. Baier, J. Ouaknine, J. Piribauer, M. Vahanwala, I. Vialard, *Temporal Properties of Conditional Independence in Dynamic Bayesian Networks*, submitted for publication.
 
 
 
