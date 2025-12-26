@@ -46,20 +46,28 @@ I am also interested in proof assistants and combinatorics on words.
 
 - Ph. Schnoebelen, M. Veron, I. Vialard, [*A Tropical Approach to the Compositional Piecewise Complexity of Words and Compressed Words*](https://doi.org/10.4230/LIPIcs.ICALP.2025.171), ICALP 2025.
 
+- I. Vialard, [*Deciding the Value of Two-Clock Almost Non-Zeno Weighted Timed Games*](https://arxiv.org/abs/2508.00014), accepted at CSL 2026.
+
+- R. Aghamov, C. Baier, J. Ouaknine, J. Piribauer, M. Vahanwala, I. Vialard, [*Temporal Properties of Conditional Independence in Dynamic Bayesian Networks*](https://arxiv.org/abs/2511.10266), accepted at AAAI 2026.
+
+- Q. Guilmant, J. Ouaknine, I. Vialard, [*The Value Problem for Weighted Timed Games with Two Clocks is Undecidable*](https://arxiv.org/abs/2507.10550), accepted at FOSSACS 2026.
+
     
 ### In preparation
 
 - S. Abriola, S. Halfon, A. Lopez, S. Schmitz, Ph. Schnoebelen, I. Vialard, [*Measuring well quasi-ordered finitary powersets*](https://arxiv.org/abs/2312.14587), submitted for publication.
 
-- Q. Guilmant, J. Ouaknine, I. Vialard, [*The Value Problem for Weighted Timed Games with Two Clocks is Undecidable*](https://arxiv.org/abs/2507.10550), submitted for publication.
 
-- I. Vialard, [*Deciding the Value of Two-Clock Almost Non-Zeno Weighted Timed Games*](https://arxiv.org/abs/2508.00014), submitted for publication.
 
-- R. Aghamov, C. Baier, J. Ouaknine, J. Piribauer, M. Vahanwala, I. Vialard, *Temporal Properties of Conditional Independence in Dynamic Bayesian Networks*, submitted for publication.
+
 
 
 
 ## Presentations in conferences, workshops, seminars
+
+* [*(Un)decidability of 2-clock Weighted Timed games*](slides/wtg.pdf), Séminaire Automate de l'IRIF, Séminaire MOVE du LIS, Séminaire du GT Informel au LMF, Séminaire 68NQRT de l'IRISA.
+
+* *Tropical algebra for piecewise complexity*, Highlights, Saarbrucken, September 2025.
 
 * *Tropical algebra for piecewise complexity*, ICALP, Aarhus, July 2025.
 
@@ -85,6 +93,8 @@ verification*](slides/phddefense.pdf), ENS Paris-Saclay, July 2024.
 * Research school *"Discrete mathematics and logic"*, Marseille, January 2023.
 
 * Highlights, Paris, June 2022.
+
+
 
 
 
