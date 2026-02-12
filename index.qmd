@@ -50,7 +50,7 @@ I am also interested in proof assistants and combinatorics on words.
 
 - R. Aghamov, C. Baier, J. Ouaknine, J. Piribauer, M. Vahanwala, I. Vialard, [*Temporal Properties of Conditional Independence in Dynamic Bayesian Networks*](https://arxiv.org/abs/2511.10266), accepted at AAAI 2026.
 
-- Q. Guilmant, J. Ouaknine, I. Vialard, [*The Value Problem for Weighted Timed Games with Two Clocks is Undecidable*](https://arxiv.org/abs/2507.10550), accepted at FOSSACS 2026.
+- Q. Guilmant, J. Ouaknine, I. Vialard, [*The Value Problem for Weighted Timed Games with Two Clocks is Undecidable*](https://arxiv.org/abs/2507.10550), distinguished paper at FOSSACS 2026.
 
     
 ### In preparation
