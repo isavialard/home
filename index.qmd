@@ -46,7 +46,7 @@ I am also interested in proof assistants and combinatorics on words.
 
 - Ph. Schnoebelen, M. Veron, I. Vialard, [*A Tropical Approach to the Compositional Piecewise Complexity of Words and Compressed Words*](https://doi.org/10.4230/LIPIcs.ICALP.2025.171), ICALP 2025.
 
-- I. Vialard, [*Deciding the Value of Two-Clock Almost Non-Zeno Weighted Timed Games*](https://arxiv.org/abs/2508.00014), accepted at CSL 2026.
+- I. Vialard, [*Deciding the Value of Two-Clock Almost Non-Zeno Weighted Timed Games*](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CSL.2026.33), CSL 2026.
 
 - R. Aghamov, C. Baier, J. Ouaknine, J. Piribauer, M. Vahanwala, I. Vialard, [*Temporal Properties of Conditional Independence in Dynamic Bayesian Networks*](https://arxiv.org/abs/2511.10266), accepted at AAAI 2026.
 
