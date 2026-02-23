@@ -65,6 +65,8 @@ I am also interested in proof assistants and combinatorics on words.
 
 ## Presentations in conferences, workshops, seminars
 
+* [*Using knowledge.sty*](slides/knowledge.pdf), Logic and Mentoring Workshop 2026.
+
 * [*(Un)decidability of 2-clock Weighted Timed games*](slides/wtg.pdf), Séminaire Automate de l'IRIF, Séminaire MOVE du LIS, Séminaire du GT Informel au LMF, Séminaire 68NQRT de l'IRISA.
 
 * *Tropical algebra for piecewise complexity*, Highlights, Saarbrucken, September 2025.
