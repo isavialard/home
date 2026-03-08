@@ -16,7 +16,7 @@ I am a postdoctoral researcher at MPI-SWS, where I am part of the *Foundations o
 I am currently working on weighted timed games.
 Before that, I did my PhD at Laboratoire Méthodes Formelles, ENS Paris Saclay, under the supervision of [Philippe Schnoebelen](http://www.lsv.fr/~phs/).
 
-#### Here are my [resume](./resumeVIALARD.pdf) and my PhD Thesis: [*Measuring well quasi-orders and complexity of verification*.](./mwqo.pdf)
+#### Here are my [resume](./ResumeVIALARD.pdf) and my PhD Thesis: [*Measuring well quasi-orders and complexity of verification*.](./mwqo.pdf)
 
 ### Contact
 You can contact me at *surname*[at]mpi-sws[dot]org, in french or english.
