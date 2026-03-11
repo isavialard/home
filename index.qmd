@@ -31,9 +31,11 @@ I am also interested in proof assistants and combinatorics on words.
 
 ### Journal articles
 
-- I. Vialard, [*On maximal order type of the lexicographic product*](https://doi.org/10.1093/jigpal/jzaf051), Logic journal of the IGPL.
+- S. Abriola, S. Halfon, A. Lopez, S. Schmitz, Ph. Schnoebelen, I. Vialard, [*Measuring well quasi-ordered finitary powersets*](https://arxiv.org/abs/2312.14587), accepted for publication at Mathematical Structures in Computer Science.
 
-- Ph. Schnoebelen and I. Vialard, [*On the piecewise complexity of words*](https://doi.org/10.1007/s00236-025-00480-4), Acta Informatica, vol 62 (2025).
+- I. Vialard, [*On maximal order type of the lexicographic product*](https://doi.org/10.1093/jigpal/jzaf051), Logic journal of the IGPL, 10 pages.
+
+- Ph. Schnoebelen and I. Vialard, [*On the piecewise complexity of words*](https://doi.org/10.1007/s00236-025-00480-4), Acta Informatica, vol 62 (2025), 22 pages.
 
 - I. Vialard, [*On the Width of the Cartesian Product of Ordinals*](https://link.springer.com/article/10.1007/s11083-024-09668-8), Order, vol 42, pp. 37-58 (2024).
 
@@ -54,8 +56,6 @@ I am also interested in proof assistants and combinatorics on words.
 
     
 ### In preparation
-
-- S. Abriola, S. Halfon, A. Lopez, S. Schmitz, Ph. Schnoebelen, I. Vialard, [*Measuring well quasi-ordered finitary powersets*](https://arxiv.org/abs/2312.14587), submitted for publication.
 
 - M. Blondin, M. Cadilhac, B. Courchesne, L. Guillou, C. Mascle, I. Vialard, *Population Protocols over Ordered Agents*, submitted for publication.
 
@@ -107,6 +107,7 @@ verification*](slides/phddefense.pdf), ENS Paris-Saclay, July 2024.
 ## Teaching and supervision
 
 * May-August 2025: I am supervising Angel Wuttke for his internship on the topic of 2-clock almost strongly non-Zeno weighted timed games.
+* February-June 2026: I am supervising Baptiste Diedler for his internship on the topic of parameterized timed automata.
 
 * 2021-2024: I taught [Formal languages](https://lmf.cnrs.fr/IsaVialard/LangagesFormels), Rewriting theory, [Architecture and systems](https://lmf.cnrs.fr/IsaVialard/ArchSys), and [Logic Project](https://lmf.cnrs.fr/IsaVialard/ProjetLogique2024) (an introduction to proof assistants) at ENS Paris-Saclay.
 
