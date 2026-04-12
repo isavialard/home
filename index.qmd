@@ -25,6 +25,8 @@ You can contact me at *surname*[at]mpi-sws[dot]org, in french or english.
 My research interests lie in verification, especially of timed systems or well-structured transition systems.
 I am also interested in proof assistants and combinatorics on words.
 
+## News
+Our FOSSACS paper [*The Value Problem for Weighted Timed Games with Two Clocks is Undecidable*](https://arxiv.org/abs/2507.10550) received the [Best ETAPS paper award](https://www.eatcs.org/index.php/component/content/article/1-news/3032-best-etaps-paper-award-2026)!
 
 
 ## Publications
