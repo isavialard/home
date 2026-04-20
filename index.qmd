@@ -21,12 +21,12 @@ Before that, I did my PhD at Laboratoire Méthodes Formelles, ENS Paris Saclay, 
 ### Contact
 You can contact me at *surname*[at]mpi-sws[dot]org, in french or english.
 
-## Research interests
+### Research
 My research interests lie in verification, especially of timed systems or well-structured transition systems.
 I am also interested in proof assistants and combinatorics on words.
 
-## News
-Our FOSSACS paper [*The Value Problem for Weighted Timed Games with Two Clocks is Undecidable*](https://arxiv.org/abs/2507.10550) received the [Best ETAPS paper award](https://www.eatcs.org/index.php/component/content/article/1-news/3032-best-etaps-paper-award-2026)!
+### News
+Our FOSSACS paper [*The Value Problem for Weighted Timed Games with Two Clocks is Undecidable*](https://arxiv.org/abs/2507.10550) received the [EATCS paper award](https://www.eatcs.org/index.php/component/content/article/1-news/3032-best-etaps-paper-award-2026) at ETAPS 2026!
 
 
 ## Publications
@@ -44,7 +44,7 @@ Our FOSSACS paper [*The Value Problem for Weighted Timed Games with Two Clocks i
 
 ### Conference proceedings
 
-- Q. Guilmant, J. Ouaknine, I. Vialard, [*The Value Problem for Weighted Timed Games with Two Clocks is Undecidable*](https://arxiv.org/abs/2507.10550), Turin, FOSSACS 2026. **ETAPS Best Paper Award**.
+- Q. Guilmant, J. Ouaknine, I. Vialard, [*The Value Problem for Weighted Timed Games with Two Clocks is Undecidable*](https://arxiv.org/abs/2507.10550), Turin, FOSSACS 2026. **EATCS Best Paper Award**.
 
 - R. Aghamov, C. Baier, J. Ouaknine, J. Piribauer, M. Vahanwala, I. Vialard, [*Temporal Properties of Conditional Independence in Dynamic Bayesian Networks*](https://arxiv.org/abs/2511.10266), AAAI 2026.
 
@@ -56,10 +56,7 @@ Our FOSSACS paper [*The Value Problem for Weighted Timed Games with Two Clocks i
 
 - I. Vialard, [*Ordinal Measures of the Set of Finite Multisets*](https://doi.org/10.4230/LIPIcs.MFCS.2023.87), Bordeaux, MFCS 2023.
 
-    
-### In preparation
-
-- M. Blondin, M. Cadilhac, B. Courchesne, L. Guillou, C. Mascle, I. Vialard, *Population Protocols over Ordered Agents*, submitted for publication.
+- M. Blondin, M. Cadilhac, B. Courchesne, L. Guillou, C. Mascle, I. Vialard, *Population Protocols over Ordered Agents*, London, ICALP 2026.
 
 
 
